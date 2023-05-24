@@ -1,0 +1,116 @@
+CRITICAL - 2023-03-14 06:28:46 --> Undefined variable $nim
+in APPPATH\Views\siakad\mahasiswa.php on line 82.
+ 1 APPPATH\Views\siakad\mahasiswa.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'APPPATH\\Views\\siakad\\mahasiswa.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 06:28:53 --> Undefined variable $nim
+in APPPATH\Views\siakad\mahasiswa.php on line 82.
+ 1 APPPATH\Views\siakad\mahasiswa.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'APPPATH\\Views\\siakad\\mahasiswa.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 06:29:18 --> Undefined variable $nim
+in APPPATH\Views\siakad\mahasiswa.php on line 82.
+ 1 APPPATH\Views\siakad\mahasiswa.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'APPPATH\\Views\\siakad\\mahasiswa.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 06:29:20 --> Undefined variable $nim
+in APPPATH\Views\siakad\mahasiswa.php on line 82.
+ 1 APPPATH\Views\siakad\mahasiswa.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nim', 'APPPATH\\Views\\siakad\\mahasiswa.php', 82)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 06:46:00 --> Undefined property: stdClass::$
+in APPPATH\Views\siakad\edit_mahasiswa.php on line 67.
+ 1 APPPATH\Views\siakad\edit_mahasiswa.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$', 'APPPATH\\Views\\siakad\\edit_mahasiswa.php', 67)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\edit_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/edit_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(34): view('siakad/edit_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->edit_mahasiswa('202102007')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:04:29 --> Undefined variable $table
+in APPPATH\Controllers\Siakad.php on line 89.
+ 1 APPPATH\Controllers\Siakad.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $table', 'APPPATH\\Controllers\\Siakad.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_update()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:18:56 --> Too few arguments to function App\Controllers\Siakad::edit_mahasiswa(), 0 passed in C:\xampp\htdocs\codeignater\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siakad.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->edit_mahasiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:21:33 --> Too few arguments to function App\Controllers\Siakad::edit_mahasiswa(), 0 passed in C:\xampp\htdocs\codeignater\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siakad.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->edit_mahasiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:21:34 --> Too few arguments to function App\Controllers\Siakad::edit_mahasiswa(), 0 passed in C:\xampp\htdocs\codeignater\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siakad.php on line 29.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->edit_mahasiswa()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:22:08 --> Undefined variable $nama
+in APPPATH\Controllers\Siakad.php on line 88.
+ 1 APPPATH\Controllers\Siakad.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nama', 'APPPATH\\Controllers\\Siakad.php', 88)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_update()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:28:54 --> Too few arguments to function App\Controllers\Siakad::mhs_delete(), 0 passed in C:\xampp\htdocs\codeignater\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siakad.php on line 100.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_delete()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:29:13 --> Too few arguments to function App\Controllers\Siakad::mhs_delete(), 0 passed in C:\xampp\htdocs\codeignater\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siakad.php on line 100.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_delete()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:30:06 --> Too few arguments to function App\Controllers\Siakad::mhs_delete(), 0 passed in C:\xampp\htdocs\codeignater\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Siakad.php on line 100.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_delete()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-14 07:48:03 --> Undefined property: stdClass::$lahirtg
+in APPPATH\Views\siakad\edit_mahasiswa.php on line 52.
+ 1 APPPATH\Views\siakad\edit_mahasiswa.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$lahirtg', 'APPPATH\\Views\\siakad\\edit_mahasiswa.php', 52)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\edit_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/edit_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(34): view('siakad/edit_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->edit_mahasiswa('qwq')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,373 @@
+CRITICAL - 2023-03-07 06:42:00 --> Undefined variable $cmb_prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 56.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cmb_prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 56)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:45:02 --> Undefined variable $cmb_prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cmb_prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:45:03 --> Undefined variable $cmb_prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cmb_prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:45:47 --> Undefined variable $kdprodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kdprodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:45:52 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:47:04 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:47:06 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:47:18 --> Undefined variable $kdprodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kdprodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:47:38 --> Undefined variable $kdprodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kdprodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:47:39 --> Undefined variable $kdprodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kdprodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 06:50:15 --> Undefined variable $kdprodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 58.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kdprodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 58)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:42:51 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(25): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:04 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:05 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:06 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:08 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:45 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:45 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:46 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:43:49 --> Undefined variable $prodi
+in APPPATH\Views\tambah\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\tambah\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\tambah\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\tambah\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('tambah/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('tambah/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:44:09 --> Undefined variable $prodi
+in APPPATH\Views\siakad\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\siakad\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\siakad\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('siakad/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:44:14 --> Undefined variable $prodi
+in APPPATH\Views\siakad\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\siakad\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $prodi', 'APPPATH\\Views\\siakad\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('siakad/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:44:29 --> Undefined variable $kdprodi
+in APPPATH\Views\siakad\tambah_mahasiswa.php on line 63.
+ 1 APPPATH\Views\siakad\tambah_mahasiswa.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $kdprodi', 'APPPATH\\Views\\siakad\\tambah_mahasiswa.php', 63)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\tambah_mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/tambah_mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(26): view('siakad/tambah_mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->add_mahasiswa()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:52:00 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Siakad.php(40): CodeIgniter\Model->__call('info_mhs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:53:06 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Siakad.php(40): CodeIgniter\Model->__call('info_mhs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 07:59:15 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 882.
+ 1 SYSTEMPATH\Model.php(642): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(832): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Siakad.php(40): CodeIgniter\Model->__call('info_mhs', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-07 08:09:52 --> mysqli_sql_exception: Duplicate entry 'qwq' for key 'PRIMARY' in C:\xampp\htdocs\codeignater\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\codeignater\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `ma...', 0)
+#1 C:\xampp\htdocs\codeignater\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ma...')
+#2 C:\xampp\htdocs\codeignater\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ma...')
+#3 C:\xampp\htdocs\codeignater\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ma...', Array, false)
+#4 C:\xampp\htdocs\codeignater\app\Models\Model_siakad.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\codeignater\app\Controllers\Siakad.php(43): App\Models\Model_siakad->insertTotable('mahasiswa', Array)
+#6 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+#7 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+#8 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeignater\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-07 08:09:52 --> Duplicate entry 'qwq' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `mahasiswa` (`nim`, `nama`, `lahirdi`, `lahirtgl`, `alamat`, `kode`) VALUES (:nim:, :nama:, :lahirdi:, :lahirtgl:, :alamat:, :kode:)', [...], false)
+ 2 APPPATH\Models\Model_siakad.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Siakad.php(43): App\Models\Model_siakad->insertTotable('mahasiswa', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-07 08:09:59 --> mysqli_sql_exception: Duplicate entry 'qwq' for key 'PRIMARY' in C:\xampp\htdocs\codeignater\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\codeignater\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `ma...', 0)
+#1 C:\xampp\htdocs\codeignater\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ma...')
+#2 C:\xampp\htdocs\codeignater\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ma...')
+#3 C:\xampp\htdocs\codeignater\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ma...', Array, false)
+#4 C:\xampp\htdocs\codeignater\app\Models\Model_siakad.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\codeignater\app\Controllers\Siakad.php(43): App\Models\Model_siakad->insertTotable('mahasiswa', Array)
+#6 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+#7 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+#8 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeignater\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-07 08:09:59 --> Duplicate entry 'qwq' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `mahasiswa` (`nim`, `nama`, `lahirdi`, `lahirtgl`, `alamat`, `kode`) VALUES (:nim:, :nama:, :lahirdi:, :lahirtgl:, :alamat:, :kode:)', [...], false)
+ 2 APPPATH\Models\Model_siakad.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Siakad.php(43): App\Models\Model_siakad->insertTotable('mahasiswa', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-03-07 08:40:52 --> mysqli_sql_exception: Duplicate entry '202102007' for key 'PRIMARY' in C:\xampp\htdocs\codeignater\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\codeignater\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `ma...', 0)
+#1 C:\xampp\htdocs\codeignater\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ma...')
+#2 C:\xampp\htdocs\codeignater\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ma...')
+#3 C:\xampp\htdocs\codeignater\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ma...', Array, false)
+#4 C:\xampp\htdocs\codeignater\app\Models\Model_siakad.php(17): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\codeignater\app\Controllers\Siakad.php(43): App\Models\Model_siakad->insertTotable('mahasiswa', Array)
+#6 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+#7 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+#8 C:\xampp\htdocs\codeignater\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\codeignater\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-03-07 08:40:52 --> Duplicate entry '202102007' for key 'PRIMARY'
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `mahasiswa` (`nim`, `nama`, `lahirdi`, `lahirtgl`, `alamat`, `kode`) VALUES (:nim:, :nama:, :lahirdi:, :lahirtgl:, :alamat:, :kode:)', [...], false)
+ 2 APPPATH\Models\Model_siakad.php(17): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Siakad.php(43): App\Models\Model_siakad->insertTotable('mahasiswa', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 09:23:06 --> Invalid file: "siakad/add_mahasiswa.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('siakad/add_mahasiswa.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/add_mahasiswa', [], true)
+ 3 APPPATH\Controllers\Siakad.php(49): view('siakad/add_mahasiswa')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 09:23:54 --> Invalid file: "siakad/add_mahasiswa.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('siakad/add_mahasiswa.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/add_mahasiswa', [], true)
+ 3 APPPATH\Controllers\Siakad.php(49): view('siakad/add_mahasiswa')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-07 09:23:59 --> Invalid file: "siakad/add_mahasiswa.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('siakad/add_mahasiswa.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/add_mahasiswa', [], true)
+ 3 APPPATH\Controllers\Siakad.php(49): view('siakad/add_mahasiswa')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->mhs_simpan()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

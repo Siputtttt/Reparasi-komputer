@@ -1,0 +1,284 @@
+CRITICAL - 2023-02-28 08:15:13 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:15:13 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:15:14 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:38:17 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:38:17 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:38:51 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:38:51 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:39:37 --> Class "app\Models\Model_siakad" not found
+in APPPATH\Controllers\Siakad.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Siakad->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:40:41 --> Undefined variable $siswa
+in APPPATH\Views\siakad\mahasiswa.php on line 13.
+ 1 APPPATH\Views\siakad\mahasiswa.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $siswa', 'APPPATH\\Views\\siakad\\mahasiswa.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:40:42 --> Undefined variable $siswa
+in APPPATH\Views\siakad\mahasiswa.php on line 13.
+ 1 APPPATH\Views\siakad\mahasiswa.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $siswa', 'APPPATH\\Views\\siakad\\mahasiswa.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:40:43 --> Undefined variable $siswa
+in APPPATH\Views\siakad\mahasiswa.php on line 13.
+ 1 APPPATH\Views\siakad\mahasiswa.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $siswa', 'APPPATH\\Views\\siakad\\mahasiswa.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 08:40:43 --> Undefined variable $siswa
+in APPPATH\Views\siakad\mahasiswa.php on line 13.
+ 1 APPPATH\Views\siakad\mahasiswa.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $siswa', 'APPPATH\\Views\\siakad\\mahasiswa.php', 13)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 5 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:18:42 --> include(include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:18:43 --> include(include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:18:43 --> include(include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:19:14 --> include(include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:19:14 --> include(include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:19:15 --> include(include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:21:00 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:21:01 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:21:01 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:22:41 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:22:42 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:22:42 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:22:43 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:22:45 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:28:09 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-02-28 09:28:10 --> include(../include/navbar.php): Failed to open stream: No such file or directory
+in APPPATH\Views\siakad\mahasiswa.php on line 3.
+ 1 APPPATH\Views\siakad\mahasiswa.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../include/navbar.php): Failed to open stream: No such file or directory', 'APPPATH\\Views\\siakad\\mahasiswa.php', 3)
+ 2 APPPATH\Views\siakad\mahasiswa.php(3): include()
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\siakad\\mahasiswa.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('siakad/mahasiswa', [], true)
+ 6 APPPATH\Controllers\Siakad.php(19): view('siakad/mahasiswa', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Siakad->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Siakad))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
